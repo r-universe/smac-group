@@ -1,0 +1,22 @@
+[
+  {
+    "package": "avar",
+    "oncran": true
+  },
+  {
+    "package": "ib",
+    "oncran": true
+  },
+  {
+    "package": "simts",
+    "oncran": true
+  },
+  {
+    "package": "swag",
+    "oncran": true
+  },
+  {
+    "package": "wv",
+    "oncran": true
+  }
+]
