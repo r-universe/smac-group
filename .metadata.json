@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "swag",
-    "oncran": true
-  },
-  {
     "package": "wv",
     "oncran": true
   }
