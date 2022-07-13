@@ -18,6 +18,11 @@
 	url = https://github.com/smac-group/simts
 	shallow = true
 	registered = true
+[submodule "swag"]
+	path = swag
+	url = https://github.com/smac-group/swag
+	shallow = true
+	registered = true
 [submodule "wv"]
 	path = wv
 	url = https://github.com/smac-group/wv
