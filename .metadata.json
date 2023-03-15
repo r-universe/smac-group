@@ -1,6 +1,14 @@
 [
   {
+    "package": "simts",
+    "oncran": true
+  },
+  {
     "package": "avar",
+    "oncran": true
+  },
+  {
+    "package": "wv",
     "oncran": true
   },
   {
@@ -8,15 +16,7 @@
     "oncran": true
   },
   {
-    "package": "simts",
-    "oncran": true
-  },
-  {
     "package": "swag",
-    "oncran": true
-  },
-  {
-    "package": "wv",
     "oncran": true
   }
 ]
