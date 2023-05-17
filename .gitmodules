@@ -13,6 +13,11 @@
 	url = https://github.com/smac-group/ib
 	shallow = true
 	registered = true
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/smac-group/navigation
+	shallow = true
+	registered = true
 [submodule "simts"]
 	path = simts
 	url = https://github.com/smac-group/simts
