@@ -5,6 +5,9 @@
 [submodule "avar"]
 	path = avar
 	url = https://github.com/smac-group/avar
+[submodule "gmwmx2"]
+	path = gmwmx2
+	url = https://github.com/smac-group/gmwmx2
 [submodule "ib"]
 	path = ib
 	url = https://github.com/smac-group/ib
